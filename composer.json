@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "limenius/liform": "^0.17.0"
+    "limenius/liform": "dev-php8"
   },
   "minimum-stability": "stable"
 }
