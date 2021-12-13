@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "limenius/liform": "dev-php8-symfony6"
+    "limenius/liform": "*"
   },
   "minimum-stability": "stable"
 }
